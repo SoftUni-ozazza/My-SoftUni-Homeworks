@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Xam">
+    <serverData>
+      <paths name="Xam">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="SoftUni-Lectures/PHP-Basics/Homeworks/01.PHP-Syntax-HW" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+

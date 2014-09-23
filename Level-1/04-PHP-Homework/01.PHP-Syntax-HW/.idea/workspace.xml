@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76b3aec0-6e27-49fe-9868-6c391eb9624c" name="Default" comment="" />
+    <ignored path="01.PHP-Syntax-HW.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="01.PHP-Syntax-HW" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="01.PersonalInfo.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.PersonalInfo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="2" selection-start="199" selection-end="199" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02.SumTwoNumbers.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.SumTwoNumbers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="3" selection-start="93" selection-end="93" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="340">
+              <folding>
+                <marker date="1408616443473" expanded="true" signature="4:90" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03.DumpVariable.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03.DumpVariable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="5" selection-start="60" selection-end="60" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="408">
+              <folding>
+                <marker date="1408616541653" expanded="true" signature="4:50" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04.NonRepeatingDigits.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04.NonRepeatingDigits.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="9" selection-start="15" selection-end="15" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="408">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05.LazySundays.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05.LazySundays.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="14" selection-start="94" selection-end="94" vertical-scroll-proportion="0.13518886" vertical-offset="0" max-vertical-offset="503">
+              <folding>
+                <element signature="e#6#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06.HTMLTable.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06.HTMLTable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="14" selection-start="111" selection-end="111" vertical-scroll-proportion="2.6153846" vertical-offset="153" max-vertical-offset="697">
+              <folding>
+                <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
+                <marker date="1408793170635" expanded="true" signature="21:33" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07.GetFormData.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="11" selection-start="1844" selection-end="1844" vertical-scroll-proportion="-13.846154" vertical-offset="609" max-vertical-offset="1122">
+              <folding>
+                <marker date="1408802664709" expanded="true" signature="662:1230" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TimeUntilNewYear.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TimeUntilNewYear.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01.PersonalInfo.php" />
+        <option value="$PROJECT_DIR$/02.SumTwoNumbers.php" />
+        <option value="$PROJECT_DIR$/03.DumpVariable.php" />
+        <option value="$PROJECT_DIR$/04.NonRepeatingDigits.php" />
+        <option value="$PROJECT_DIR$/LazySundays.php" />
+        <option value="$PROJECT_DIR$/06.HTMLTable.php" />
+        <option value="$PROJECT_DIR$/07.GetFormData.php" />
+        <option value="$PROJECT_DIR$/TimeUntilNewYear.php" />
+        <option value="$PROJECT_DIR$/05.LazySundays.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server deployment_server="4a8387ce-7853-4f9a-91b1-bec4aa368903" host="localhost" name="WebDebugServer" port="8080" validation_dir="C:\xampp\htdocs\SoftUni-Lectures\PHP-Basics\Homeworks\01.PHP-Syntax-HW" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP from XAMPP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="19" />
+    <option name="y" value="10" />
+    <option name="width" value="581" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01.PHP-Syntax-HW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01.PHP-Syntax-HW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01.PHP-Syntax-HW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Test" />
+    <property name="options.lastSelected" value="web.server" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\SoftUni-Lectures\PHP-Basics\Homeworks\01.PHP-Syntax-HW" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.WebDebug">
+    <configuration default="false" name="04.NonRepeatingDigits.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/04.NonRepeatingDigits.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="06.HTMLTable.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/06.HTMLTable.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="07.GetFormData.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/07.GetFormData.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TimeUntilNewYear.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/TimeUntilNewYear.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="WebDebugServer" start_url="/SoftUni-Lectures">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="4a8387ce-7853-4f9a-91b1-bec4aa368903" server_name="Xam">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="05.LazySundays.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/05.LazySundays.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WebDebug" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="WebDebugServer" start_url="/SoftUni-Lectures/PHP-Basics/Homeworks/01.PHP-Syntax-HW/05.LazySundays.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="01.PHP-Syntax-HW" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.05.LazySundays.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Web Application.WebDebug" />
+      <item index="2" class="java.lang.String" itemvalue="PHPUnit.01.PHP-Syntax-HW" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.04.NonRepeatingDigits.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.06.HTMLTable.php" />
+      <item index="5" class="java.lang.String" itemvalue="PHP Script.07.GetFormData.php" />
+      <item index="6" class="java.lang.String" itemvalue="PHP Script.TimeUntilNewYear.php" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.TimeUntilNewYear.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.07.GetFormData.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.06.HTMLTable.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.04.NonRepeatingDigits.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\HP\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76b3aec0-6e27-49fe-9868-6c391eb9624c" name="Default" comment="" />
+      <created>1408616318131</created>
+      <updated>1408616318131</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="19" y="10" width="581" height="728" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30194804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20806451" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30194804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20806451" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="javascript-exception">
+          <dependency master-id="0" />
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01.PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.SumTwoNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="340">
+          <folding>
+            <marker date="1408616443473" expanded="true" signature="4:90" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="408">
+          <folding>
+            <marker date="1408616541653" expanded="true" signature="4:50" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.NonRepeatingDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="14" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="391">
+          <folding>
+            <element signature="e#6#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.HTMLTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1156">
+          <folding>
+            <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
+            <marker date="1408793170635" expanded="true" signature="21:33" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="43" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="1122">
+          <folding>
+            <marker date="1408802664709" expanded="true" signature="662:1230" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.SumTwoNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="340">
+          <folding>
+            <marker date="1408616443473" expanded="true" signature="4:90" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="408">
+          <folding>
+            <marker date="1408616541653" expanded="true" signature="4:50" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.NonRepeatingDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="14" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="391">
+          <folding>
+            <element signature="e#6#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.HTMLTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="1156">
+          <folding>
+            <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
+            <marker date="1408793170635" expanded="true" signature="21:33" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="43" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.0" vertical-offset="507" max-vertical-offset="1122">
+          <folding>
+            <marker date="1408802664709" expanded="true" signature="662:1230" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.SumTwoNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="340">
+          <folding>
+            <marker date="1408616443473" expanded="true" signature="4:90" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="408">
+          <folding>
+            <marker date="1408616541653" expanded="true" signature="4:50" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.NonRepeatingDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="14" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="391">
+          <folding>
+            <element signature="e#6#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.HTMLTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="1156">
+          <folding>
+            <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
+            <marker date="1408793170635" expanded="true" signature="21:33" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="43" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.0" vertical-offset="507" max-vertical-offset="1122">
+          <folding>
+            <marker date="1408802664709" expanded="true" signature="662:1230" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.SumTwoNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="340">
+          <folding>
+            <marker date="1408616443473" expanded="true" signature="4:90" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="408">
+          <folding>
+            <marker date="1408616541653" expanded="true" signature="4:50" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.NonRepeatingDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="391">
+          <folding>
+            <element signature="e#6#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.HTMLTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="1156">
+          <folding>
+            <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
+            <marker date="1408793170635" expanded="true" signature="21:33" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="1691" selection-end="1691" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1122">
+          <folding>
+            <marker date="1408802664709" expanded="true" signature="662:1230" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.SumTwoNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="340">
+          <folding>
+            <marker date="1408616443473" expanded="true" signature="4:90" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="408">
+          <folding>
+            <marker date="1408616541653" expanded="true" signature="4:50" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.NonRepeatingDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="14" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="391">
+          <folding>
+            <element signature="e#6#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.HTMLTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1156">
+          <folding>
+            <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
+            <marker date="1408793170635" expanded="true" signature="21:33" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="1691" selection-end="1691" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1122">
+          <folding>
+            <marker date="1408802664709" expanded="true" signature="662:1230" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="11" selection-start="1844" selection-end="1844" vertical-scroll-proportion="-13.846154" vertical-offset="609" max-vertical-offset="1122">
+          <folding>
+            <marker date="1408802664709" expanded="true" signature="662:1230" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="199" selection-end="199" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.SumTwoNumbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="93" selection-end="93" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="340">
+          <folding>
+            <marker date="1408616443473" expanded="true" signature="4:90" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.HTMLTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="14" selection-start="111" selection-end="111" vertical-scroll-proportion="2.6153846" vertical-offset="153" max-vertical-offset="697">
+          <folding>
+            <element signature="tag#style#0;tag#head#0;tag#html#0" expanded="false" />
+            <marker date="1408793170635" expanded="true" signature="21:33" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="60" selection-end="60" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="408">
+          <folding>
+            <marker date="1408616541653" expanded="true" signature="4:50" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.NonRepeatingDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="9" selection-start="15" selection-end="15" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="14" selection-start="94" selection-end="94" vertical-scroll-proportion="0.13518886" vertical-offset="0" max-vertical-offset="503">
+          <folding>
+            <element signature="e#6#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

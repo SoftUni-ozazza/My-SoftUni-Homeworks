@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+section{
+    padding:0.5rem;
+}
+article{
+    margin: 1rem;
+}
+table{
+    font-family: Verdana, Arial;
+    font-size: 0.8rem;
+    text-align: left;
+    box-sizing: border-box;
+    border-collapse: collapse;
+    border: 2px solid green;
+}
+tr th{
+    padding: 0.4rem 0.9rem;
+    background-color: lightgoldenrodyellow;
+    border: 2px solid green;
+    text-transform: capitalize;
+}
+tr td{
+    padding: 0.4rem 0.9rem;
+    text-align: right;
+    border: 2px solid green;
+}
+tfoot td:first-child{
+    font-weight: bold;
+}
