@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Order Tickets</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <header>
+        <h1>FLIGHT ORDER</h1>
+    </header>
+    <section>
+        <ul>
+            <li id="left-side">
+                <label for="city">From</label>
+                <br />
+                <select name="city" id="city">
+                    <option value="sofia">Sofia</option>
+                    <option value="london">London</option>
+                    <option value="moskva">Moskva</option>
+                    <option value="newyork">New York</option>
+                    <option value="tokyo">Tokyo</option>
+                </select>
+                <form method="post" action="#">
+                    <label for="depart">Departure Date</label><br />
+                    <input type="date" name="date-depart" id="depart" /><br />
+                    <label for="return">Return Date</label><br />
+                    <input type="date" name="date-return" id="return" /><br />
+                    <label for="adult">12+</label>
+                    <input type="number" min="0" max="100" id="adult" />
+                    <label for="child">2-12</label>
+                    <input type="number" min="0" max="100" id="child" />
+                    <label for="infant">0-2</label>
+                    <input type="number" min="0" max="100" id="infant" />
+                </form>
+            </li>
+            <li id="right-side">
+                <label for="city">To</label>
+                <br />
+                <select name="city" id="city">
+                    <option value="sofia">Sofia</option>
+                    <option value="london">London</option>
+                    <option value="moskva">Moskva</option>
+                    <option value="newyork">New York</option>
+                    <option value="tokyo">Tokyo</option>
+                </select>
+                <form method="post" action="#">
+                    <p><input type="checkbox" name="directs" /> Prefer directs</p>
+                    <label for="time-start">Time Interval</label><br />
+                    <input type="time" name="time-depart-start" id="time-start" />
+                    <input type="time" name="time-depart-end" /><br />
+                    <label for="time-return">Time Interval</label><br />
+                    <input type="time" name="time-return-start" id="time-return" />
+                    <input type="time" name="time-return-end" /><br />
+                    <label for="flight-class">Choose class</label>
+                    <select id="flight-class">
+                        <option>Economy</option>
+                        <option>First class</option>
+                    </select>
+                    <input type="submit" />
+                </form>
+            </li>
+        </ul>
+    </section>
+</body>
+</html>

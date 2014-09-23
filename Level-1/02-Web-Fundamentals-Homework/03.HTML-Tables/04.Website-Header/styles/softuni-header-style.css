@@ -1,0 +1,105 @@
+﻿table, ul, a {
+    background-color: #234465;
+    color: #ffffff;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+table {
+    width: 100%;
+    padding: 10px 0px;
+}
+
+    table ul {
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+
+        table ul li {
+            display: inline-block;
+            margin: 2px;
+        }
+
+            table ul li a {
+                padding: 5px;
+            }
+
+nav {
+    text-align: right;
+    padding-right: 3px;
+}
+
+    nav ul {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+        nav ul li a {
+            padding: 3px 25px 3px 5px;
+        }
+
+td.first-child {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+td.second-child {
+    text-align: right;
+    padding-right: 30px;
+}
+
+    td.second-child li {
+        position: relative;
+        margin-left: 30px;
+        margin-right: 0px;
+    }
+
+    td.second-child img.bell {
+        position: absolute;
+        top: -5px;
+        left: 10px;
+        width: 21px;
+        height: 21px;
+        padding: 4px;
+        vertical-align: bottom;
+    }
+
+    td.second-child .fieldset {
+        width: 260px;
+        height: 30px;
+        margin-left: -30px;
+        padding: 2px 35px 2px 10px;
+        position: relative;
+        border: none;
+        border-radius: 5px;
+        background-color: #ffffff;
+        font-weight: normal;
+    }
+
+    td.second-child .button {
+        width: 36px;
+        height: 34px;
+        position: absolute;
+        top: 0;
+        right: -2px;
+        background: url(../images/search-icon.png) no-repeat 8px center;
+        background-size: 17px 17px;
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+    }
+
+td.last-child {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+.triangle a img {
+    margin: 2px 5px;
+    width: 10px;
+    height: 5px;
+    vertical-align: baseline;
+}

@@ -1,0 +1,56 @@
+﻿
+        html{
+            background: url(../images/slide-bg.png) no-repeat center center fixed;
+            background-size: cover;
+        }
+        body{
+            margin: -15px 30px 0px 30px;
+            font-family: Calibri;
+            color: #F3BE60;
+        }
+        section{
+            margin-top: -20px;
+            margin-left: 26px;
+        }
+        header{
+            background: url(../images/softuni-pulp-logo.png) no-repeat center right;
+            background-size: 214px;
+            margin: 0 15px 10px 15px;
+            color: #F3BE60;
+            font-size: 28px;
+        }
+        ul{
+            font-size: 40px;
+            color: #F2B254;
+        }
+        ul li{
+            list-style-type: square;
+        }
+        ul li code{
+            font-family: Consolas;
+            font-weight: bold;
+            color: #F3CD60;
+        }
+        ul ul{
+            background-color: rgba(32, 32, 30, 0.7);
+            border: 1px solid #C7BFAC;
+            font-size: 20px;
+            list-style-type: none;
+            padding-left: 20px;
+            margin: 15px 100px 20px 15px;
+        }
+        ul ul li {
+            display: block;
+            margin: 5px 5px 5px 0;
+        }
+        ul ul li code{
+            color: #FBEEC9;
+            font-weight: bold;
+            font-size: 22px;
+        }
+        ul ul li code span{
+            padding-left: 40px;
+        }
+        .text {
+            color: #FFFFFF;
+        }

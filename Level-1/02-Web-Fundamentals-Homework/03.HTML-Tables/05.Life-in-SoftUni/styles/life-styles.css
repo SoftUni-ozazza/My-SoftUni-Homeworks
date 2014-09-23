@@ -1,0 +1,56 @@
+﻿table, th, td {
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+    table th {
+        font-size: 40px;
+        padding: 22px 32px;
+    }
+
+    table td {
+        width: 100px;
+        height: 100px;
+        padding: 2px 5px;
+    }
+
+    td.table-table {
+        padding: 0px;
+        text-align: center;
+    }
+
+        td.table-table table {
+            display: inline-table;
+            padding: 0;
+            margin: 5px;
+        }
+
+        td.table-table th {
+            font-size: 12px;
+            padding: 20px 11px;
+        }
+
+.vertical-top {
+    vertical-align: top;
+}
+
+.vertical-bottom {
+    vertical-align: bottom;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.align-center {
+    text-align: center;
+}
+
+tfoot td.align-right {
+    font-weight: bold;
+    font-size: 24px;
+}

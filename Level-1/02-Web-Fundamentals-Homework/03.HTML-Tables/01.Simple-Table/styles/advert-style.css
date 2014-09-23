@@ -1,0 +1,44 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+}
+
+section {
+    margin: 15px;
+    padding: 5px;
+    text-align: left;
+}
+
+    section table {
+        border: 1px solid #bfbfbf;
+    }
+
+table td table {
+    width: 214px;
+}
+
+table td img {
+    padding: 2px 5px;
+    width: 155px;
+    height: 155px;
+    border-color: #143753;
+}
+
+table table {
+    border: none;
+}
+
+    table table th {
+        font-size: 16px;
+    }
+
+    table table td {
+        font-size: 14px;
+    }
+
+.table-head {
+    padding-bottom: 30px;
+    font-size: 28px;
+}

@@ -1,0 +1,16 @@
+﻿table, th, td{
+    border: 1px solid black;
+}
+table th,
+table td{
+}
+table table,
+table table td{
+    color: blue;
+    border: none
+}
+table table td .button{
+    display: inline-block;
+    height: 20px;
+    font-size: 10px;
+}

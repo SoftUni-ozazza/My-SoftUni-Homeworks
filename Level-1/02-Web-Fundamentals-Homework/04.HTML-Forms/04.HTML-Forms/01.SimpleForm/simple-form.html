@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <section>
+        <h1>Enter the system</h1>
+        <p>It is necessary to login in Your account in order to sign in for a course</p>
+        <br />
+        <ul>
+            <li id="register">
+                <p>ARE YOU NEW? <a href="#1">REGISTER</a></p>
+                <form method="post" action="#">
+                    <input type="text" name="register-user-name" placeholder="User name" />
+                    <input type="email" name="email" placeholder="Email" />
+                    <input type="password" name="register-pass" placeholder="Password" />
+                    <input type="password" name="confirm-pass" placeholder="Confirm password" />
+                    <input type="submit" name="submit-button" value="Register" />
+                </form>
+            </li>
+            <li id="login">
+                <p>ALREADY A STUDENT? <a href="#">LOGIN</a></p>
+                <form method="post" action="#">
+                    <ul>
+                        <li>
+                            <input type="text" name="login-user-name" placeholder="User name" />
+                            <input type="password" name="login-pass" />
+                            <p><span><input type="checkbox" value="remember">Remember Me</span><input type="submit" value="Login" name="login-submit-button"></p>
+                        </li>
+                    </ul>
+                </form>
+            </li>
+        </ul>
+    </section>
+</body>
+</html>

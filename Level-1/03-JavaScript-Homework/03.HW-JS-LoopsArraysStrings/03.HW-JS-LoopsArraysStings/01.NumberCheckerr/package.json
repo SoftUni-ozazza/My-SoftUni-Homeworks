@@ -1,0 +1,10 @@
+{
+  "name": "_01.NumberCheckerr",
+  "version": "0.0.0",
+  "description": "01.NumberCheckerr",
+  "main": "server.js",
+  "author": {
+    "name": "HP",
+    "email": ""
+  }
+}
