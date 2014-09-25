@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01.Point3D
+namespace Geometry.Storage
 {
-    class Point3D
+    class GeometryBinaryStorage
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }

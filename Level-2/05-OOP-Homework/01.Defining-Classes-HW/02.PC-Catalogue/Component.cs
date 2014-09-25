@@ -14,15 +14,12 @@ namespace PCCatalogue
         private string details; //opt
 
         // constructors
-        public Component(string name, decimal price)
+        public Component() { }
+
+        public Component(string name, decimal price, string details = null)
         {
             this.Name = name;
             this.Price = price;
-        }
-
-        public Component(string name, decimal price, string details)
-            :this(name, price)
-        {
             this.Details = details;
         }
 
@@ -61,18 +58,8 @@ namespace PCCatalogue
 
         public string Details
         {
-            get
-            {
-                return this.details;
-            }
-            set
-            {
-                if (value == " ")
-                {
-                    throw new ApplicationException("Details value can not be whitespace!");
-                }
-                this.details = value;
-            }
+            get { return this.details; }
+            set { this.details = value; }
         }
 
         // console output

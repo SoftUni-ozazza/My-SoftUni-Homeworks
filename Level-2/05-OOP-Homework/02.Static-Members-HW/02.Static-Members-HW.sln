@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Windows Desktop
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Point3D", "01.Point3D\01.Point3D.csproj", "{7DE3F1DF-FC01-4167-BD71-E2C812CFCF10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point3D", "01.Point3D\Point3D.csproj", "{7DE3F1DF-FC01-4167-BD71-E2C812CFCF10}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Distance-Calculator", "02.Distance-Calculator\02.Distance-Calculator.csproj", "{608BE429-0A67-4E5A-B704-E865DD01A8FC}"
 EndProject

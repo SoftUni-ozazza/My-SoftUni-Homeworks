@@ -20,14 +20,14 @@ namespace LaptopShop
         private Battery battery = new Battery();
 
         // Constructors:
-        // Mandatory
+            // Mandatory
         public Laptop(string model, decimal price)
         {
             this.Model = model;
             this.Price = price;
         }
 
-        // Non-Mandatory
+            // Non-Mandatory
         public Laptop(string model, decimal price, string manufacturer = null, string processor = null, string ram = null, string graphicCard = null, string hdd = null, string batDescription = null, string batLife = null, string screen = null)
             : this(model, price)
         {

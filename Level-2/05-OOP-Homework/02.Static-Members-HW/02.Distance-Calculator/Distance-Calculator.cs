@@ -1,6 +1,16 @@
 ﻿using System;
+using Space3D.Point3D;
 
-public static class DistanceCalculator
+namespace Space3D
 {
-    public double CalcDistance
+
+    static class DistanceCalculator
+    {
+        public static double CalcDistance(Point3D p1, Point3D p2)
+        {
+            double distanceX = p1.;
+            double distanceY
+                double distanceZ
+        }
+    }
 }
