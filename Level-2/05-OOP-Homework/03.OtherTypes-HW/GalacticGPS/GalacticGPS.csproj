@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7DE3F1DF-FC01-4167-BD71-E2C812CFCF10}</ProjectGuid>
+    <ProjectGuid>{5D9B5584-77AA-4B74-9817-CABFAAEBF917}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_01.Point3D</RootNamespace>
-    <AssemblyName>01.Point3D</AssemblyName>
+    <RootNamespace>GalacticGPS</RootNamespace>
+    <AssemblyName>GalacticGPS</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,11 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Space3D\Distance-Calculator.cs" />
-    <Compile Include="Space3D\Path3D.cs" />
-    <Compile Include="Space3D\Point3D.cs" />
+    <Compile Include="GalacticGPS.cs" />
+    <Compile Include="Location.cs" />
+    <Compile Include="Planet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Space3D\Storage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
