@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalacticGPS", "GalacticGPS\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalCalculator", "FunctionalCalculator\FunctionalCalculator.csproj", "{12B3B8DA-1CB5-4DC0-AC12-14EC348B593E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{4CA0180E-85EE-4EA3-8775-9FEF9868EF41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{12B3B8DA-1CB5-4DC0-AC12-14EC348B593E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12B3B8DA-1CB5-4DC0-AC12-14EC348B593E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12B3B8DA-1CB5-4DC0-AC12-14EC348B593E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CA0180E-85EE-4EA3-8775-9FEF9868EF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA0180E-85EE-4EA3-8775-9FEF9868EF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA0180E-85EE-4EA3-8775-9FEF9868EF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA0180E-85EE-4EA3-8775-9FEF9868EF41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
