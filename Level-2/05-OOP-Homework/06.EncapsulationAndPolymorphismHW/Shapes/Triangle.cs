@@ -25,21 +25,21 @@ namespace Shapes
                     throw new ArgumentOutOfRangeException("sideC", "The value of sideC must be positive number.");
                 }
 
-                SideC = value;
+                this.sideC = value;
             }
         }
 
         public override double CalculateArea()
         {
-            double p = CalculatePerimeter()/2;
-            double areaTriangle = Math.Sqrt(p*(p - Height)*(p - Width)*(p - SideC));
+            double p = this.Width + this.Height + this.SideC / 2;
+            double areaTriangle = Math.Sqrt(p*(p - this.Height)*(p - this.Width)*(p - this.SideC));
 
             return areaTriangle;
         }
 
         public override double CalculatePerimeter()
         {
-            double perimeterTriangle = Width + Height + SideC;
+            double perimeterTriangle = this.Width + this.Height + this.SideC;
 
             return perimeterTriangle;
         }

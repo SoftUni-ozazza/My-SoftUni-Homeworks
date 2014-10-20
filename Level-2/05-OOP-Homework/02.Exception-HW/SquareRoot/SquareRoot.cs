@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SquareRoot
+﻿namespace SquareRoot
 {
+    using System;
+
     class SquareRoot
     {
         static void Main()
@@ -18,7 +14,7 @@ namespace SquareRoot
 
                 if (parced < 0)
                 {
-                    throw new ApplicationException("Invalid number. The value must not be negative or zero.");
+                    throw new ApplicationException("Invalid number. The value must be positive.");
                 }
 
                 double result = Math.Sqrt(parced);

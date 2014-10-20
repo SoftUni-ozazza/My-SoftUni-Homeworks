@@ -8,8 +8,8 @@ namespace Shapes
 {
     public class Rectangle : BasicShape, IShape
     {
-        public Rectangle(double width, double height)
-            : base(width, height)
+        public Rectangle(double sideA, double sideB)
+            : base(sideA, sideB)
         {
         }
 
