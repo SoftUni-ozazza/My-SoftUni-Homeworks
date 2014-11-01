@@ -1,78 +1,78 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PCCatalogue
+﻿namespace PCCatalogue
 {
-    class Component
+    using System;
+    using System.Text;
+
+    public class Component
     {
         //fields
-        private string name;
-        private decimal price;
-        private string details; //opt
+        private string componentName;
+        private decimal componentPrice;
+        private string componentDetails;
 
         // constructors
-        public Component() { }
-
-        public Component(string name, decimal price, string details = null)
+        public Component()
         {
-            this.Name = name;
-            this.Price = price;
-            this.Details = details;
+        }
+
+        public Component(string componentName, decimal componentPrice, string componentDetails = null)
+        {
+            this.ComponentName = componentName;
+            this.ComponentPrice = componentPrice;
+            this.ComponentDetails = componentDetails;
         }
 
         // properties
-        public string Name
+        public string ComponentName
         {
             get
             {
-                return this.name;
+                return this.componentName;
             }
             set
             {
                 if (string.IsNullOrEmpty(value))
                 {
-                    throw new ApplicationException("Name can not be null or empty!");
+                    throw new ApplicationException("ComponentName should not be null or empty!");
                 }
-                this.name = value;
+                this.componentName = value;
             }
         }
 
-        public decimal Price
+        public decimal ComponentPrice
         {
             get
             {
-                return this.price;
+                return this.componentPrice;
             }
             set
             {
-                if (value < 0)
+                if (value <= 0)
                 {
-                    throw new ApplicationException("Price value can not be negative");
+                    throw new ApplicationException("ComponentPrice value should positive and not zero.");
                 }
-                this.price = value;
+                this.componentPrice = value;
             }
         }
 
-        public string Details
+        public string ComponentDetails
         {
-            get { return this.details; }
-            set { this.details = value; }
+            get { return this.componentDetails; }
+            set { this.componentDetails = value; }
         }
 
         // console output
         public override string ToString()
         {
-            string result = string.Format("Name {0}, Price {1}", this.Name, this.Price);
+            var componentResult = new StringBuilder();
+            componentResult.Append(string.Format("Component: {0} - Price {1:N} BGN", this.ComponentName, this.ComponentPrice));
 
-            if (this.Details != null)
+            if (this.ComponentDetails != null)
             {
-                result += string.Format(", Details {0}", this.Details);
+                componentResult.Append(string.Format(", Details {0}", this.ComponentDetails));
             }
 
-            return result;
+            return componentResult.ToString();
         }
     }
 }
